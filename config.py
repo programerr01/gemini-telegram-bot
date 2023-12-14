@@ -1,0 +1,2 @@
+TG_TOKEN=""
+API_TOKEN=""
