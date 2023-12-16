@@ -13,3 +13,7 @@ API_TOKEN="AIzaSyD_1jEt1KVdXXXXXXXXX"
 ```bash
 python3 main.py
 ```
+
+## Chat
+![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/b6495107-a48f-4651-9d9a-e3b9f77f013e)
+
