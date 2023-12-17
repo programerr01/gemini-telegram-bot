@@ -15,5 +15,9 @@ python3 main.py
 ```
 
 ## Chat
-![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/b6495107-a48f-4651-9d9a-e3b9f77f013e)
+![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/e4745fb7-49da-4e7b-a115-073bd5e29e28)
+
+![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/a88bc687-008f-4e00-a3aa-f231a0bf8809)
+
+
 
