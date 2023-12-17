@@ -21,3 +21,5 @@ python3 main.py
 
 
 
+### TODO 
+- [ ] Adding Gemini Pro Vision for Image support
