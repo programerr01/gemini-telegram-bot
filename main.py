@@ -83,7 +83,7 @@ def get_updates(offset=None):
     return response.json()['result']
 
 def main():
-    offset = None
+    offset = None;print("Started Running....")
 
     while True:
         updates = get_updates(offset)
