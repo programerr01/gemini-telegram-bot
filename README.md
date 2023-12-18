@@ -19,7 +19,7 @@ python3 main.py
 
 ![Chat](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/a88bc687-008f-4e00-a3aa-f231a0bf8809)
 
-![Image and Chat](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/66343301-e149-4f50-bd9b-c86a91fff6b3)
+![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/5dd3aabe-ae86-4f91-bd00-b899a79bdee3)
 
 
 ### TODO 
