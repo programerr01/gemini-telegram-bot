@@ -15,10 +15,11 @@ python3 main.py
 ```
 
 ## Chat
-![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/e4745fb7-49da-4e7b-a115-073bd5e29e28)
+![Chat](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/e4745fb7-49da-4e7b-a115-073bd5e29e28)
 
-![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/a88bc687-008f-4e00-a3aa-f231a0bf8809)
+![Chat](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/a88bc687-008f-4e00-a3aa-f231a0bf8809)
 
+![Image and Chat](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/66343301-e149-4f50-bd9b-c86a91fff6b3)
 
 
 ### TODO 
