@@ -10,6 +10,7 @@ Integrate Gemini with telegram bot and get responses directly to telegram
 
 
 ## Running
+No Extra library installation required
 ```bash
 python3 main.py
 ```
