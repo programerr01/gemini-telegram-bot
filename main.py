@@ -1,6 +1,6 @@
 import requests
 from urllib.parse import quote_plus
-from copy_config import TG_TOKEN, API_TOKEN
+from config import TG_TOKEN, API_TOKEN, VISION_TEMPERATURE, PRO_TEMPERATURE
 import re
 import base64
 import os
@@ -27,7 +27,7 @@ def get_pro_llm_response(img,prompt):
         }
     ],
     "generationConfig": {
-        "temperature": 0.4,
+        "temperature": VISION_TEMPERATURE,
         "topK": 32,
         "topP": 1,
         "maxOutputTokens": 4096,
@@ -71,7 +71,7 @@ def get_llm_response(prompt):
         },
     ],
     'generationConfig': {
-        'temperature': 0.9,
+        'temperature': PRO_TEMPERATURE,
         'topK': 1,
         'topP': 1,
         'maxOutputTokens': 2048,
