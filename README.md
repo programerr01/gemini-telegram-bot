@@ -25,4 +25,4 @@ python3 main.py
 
 ### TODO 
 - [x] Adding Gemini Pro Vision for Image support
-- [ ] Custom Parameters
+- [x] Custom Parameters
