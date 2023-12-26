@@ -6,7 +6,7 @@ Integrate Gemini with telegram bot and get responses directly to telegram
 2. Get API key for [gemini](https://makersuite.google.com/app/apikey)
 3. Put them in config.py file
 
-![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/98a597dc-ba1b-41f5-998b-3baf4d54e6e3)
+![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/d2b63b86-e500-420d-a983-7d69997df5ca)
 
 
 ## Running
