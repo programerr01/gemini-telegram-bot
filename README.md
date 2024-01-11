@@ -22,6 +22,10 @@ python3 main.py
 
 ![image](https://github.com/programerr01/gemini-telegram-bot/assets/61112300/5dd3aabe-ae86-4f91-bd00-b899a79bdee3)
 
+### CUSTOM PARAMETERS 
+`Vision Temperature` for gemini pro vision api 
+
+`Pro Temperature` for gemini pro api 
 
 ### TODO 
 - [x] Adding Gemini Pro Vision for Image support
